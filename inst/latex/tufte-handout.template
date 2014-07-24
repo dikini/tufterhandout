@@ -11,6 +11,9 @@
 \setkeys{Gin}{width=\linewidth,totalheight=\textheight,keepaspectratio}
 \graphicspath{{graphics/}}
 
+%longtable
+\usepackage{longtable}
+
 % natbib
 \usepackage{natbib}
 \bibliographystyle{plainnat}
